@@ -1,0 +1,42 @@
+player,position,team,gk_games_starts,gk_goals_against,gk_save_pct,gk_clean_sheets_pct,gk_pens_save_pct,gk_passes_completed_launched,gk_crosses_stopped_pct
+Aimen Dahmen,GK,Tunisia,3,1,90.0,66.7,0.0,15,0.0
+Alireza Beiranvand,GK,IR Iran,2,1,80.0,0.0,0.0,5,0.0
+Alisson,GK,Brazil,4,2,71.4,50.0,0.0,5,0.0
+Andries Noppert,GK,Netherlands,5,4,86.4,40.0,0.0,22,9.5
+André Onana,GK,Cameroon,1,1,66.7,0.0,0.0,6,0.0
+Danny Ward,GK,Wales,1,5,44.4,0.0,0.0,12,7.1
+Devis Epassy,GK,Cameroon,2,3,75.0,50.0,0.0,23,7.5
+Diogo Costa,GK,Portugal,5,6,64.7,20.0,0.0,13,6.4
+Dominik Livaković,GK,Croatia,7,7,80.6,28.6,0.0,31,8.1
+Ederson,GK,Brazil,1,1,66.7,0.0,0.0,3,0.0
+Edouard Mendy,GK,Senegal,4,7,50.0,0.0,0.0,15,4.7
+Emiliano Martínez,GK,Argentina,7,8,53.8,42.9,0.0,15,13.8
+Gregor Kobel,GK,Switzerland,1,2,50.0,0.0,0.0,1,0.0
+Guillermo Ochoa,GK,Mexico,3,3,50.0,33.3,100.0,10,0.0
+Hernán Galíndez,GK,Ecuador,3,3,50.0,33.3,0.0,11,3.8
+Hossein Hosseini,GK,IR Iran,1,6,40.0,100.0,0.0,8,14.8
+Hugo Lloris,GK,France,6,7,83.3,16.7,0.0,34,10.0
+Jordan Pickford,GK,England,5,4,72.7,60.0,0.0,20,5.1
+Kasper Schmeichel,GK,Denmark,3,3,72.7,33.3,0.0,9,0.0
+Keylor Navas,GK,Costa Rica,3,11,54.5,33.3,0.0,20,3.9
+Kim Seung-gyu,GK,Korea Republic,4,8,63.2,25.0,0.0,11,6.4
+Lawrence Ati-Zigi,GK,Ghana,3,7,64.7,0.0,0.0,13,3.4
+Manuel Neuer,GK,Germany,3,5,61.5,0.0,0.0,7,0.0
+Mathew Ryan,GK,Australia,4,6,66.7,50.0,0.0,38,4.8
+Matt Turner,GK,United States,4,4,75.0,50.0,0.0,13,16.7
+Meshaal Barsham,GK,Qatar,2,5,44.4,0.0,0.0,6,4.5
+Milan Borjan,GK,Canada,3,7,53.3,0.0,0.0,11,0.0
+Mohammed Al-Owais,GK,Saudi Arabia,3,5,78.9,0.0,0.0,16,7.3
+Munir,GK,Morocco,1,0,100.0,100.0,0.0,5,0.0
+Saad Al Sheeb,GK,Qatar,1,2,66.7,0.0,0.0,2,0.0
+Sergio Rochet,GK,Uruguay,3,2,85.7,66.7,50.0,6,6.1
+Shūichi Gonda,GK,Japan,4,4,84.2,0.0,0.0,12,6.6
+Steve Mandanda,GK,France,1,1,66.7,0.0,0.0,1,5.3
+Thibaut Courtois,GK,Belgium,3,2,81.8,66.7,100.0,10,2.8
+Unai Simón,GK,Spain,4,3,66.7,50.0,0.0,7,18.2
+Vanja Milinković-Savić,GK,Serbia,3,8,66.7,0.0,0.0,17,10.7
+Wayne Hennessey,GK,Wales,2,1,80.0,0.0,0.0,11,5.9
+Wojciech Szczęsny,GK,Poland,4,5,82.1,50.0,100.0,40,1.5
+Wéverton,GK,Brazil,0,0,0.0,0.0,0.0,2,0.0
+Yann Sommer,GK,Switzerland,3,7,63.2,33.3,0.0,5,4.1
+Yassine Bounou,GK,Morocco,6,5,54.5,50.0,0.0,32,5.4
