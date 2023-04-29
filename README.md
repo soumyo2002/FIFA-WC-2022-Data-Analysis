@@ -48,6 +48,11 @@ git clone https://github.com/soumyo2002/FIFA-WC-2022-Data-Analysis.git
 
 After cloning the repository, navigate to the repository's directory and open the Jupyter Notebook files in your preferred environment to run the code and see the results.
 
+## FIFA BEST XI
+
+![WhatsApp Image 2023-04-29 at 23 34 21](https://user-images.githubusercontent.com/92665254/235317676-0401f29d-c855-4af3-98cc-1343bfd9ccd8.jpg)
+
+
 ## Conclusion
 
 Through this analysis, we have identified the best player in each position and created a World Best 11 team. We hope that this analysis provides valuable insights into the performance of football players during the FIFA World Cup 2022 and helps fans and coaches better understand the game. The analysis can also serve as a useful reference for future FIFA World Cup tournaments.
